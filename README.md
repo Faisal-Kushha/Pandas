@@ -49,4 +49,4 @@ Faisal Kushha
 
 ## Pull requests :
 
-[Pull requests]()
+[Pull requests](https://github.com/Faisal-Kushha/Pandas/pull/1)
